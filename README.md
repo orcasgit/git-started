@@ -10,6 +10,9 @@ Style guides
 ============
 
 [Less/CSS](styles/Less.md)
+
 [JavaScript](styles/JavaScript.md)
+
 [HTML](styles/HTML.md)
+
 [Python](styles/Python.md)
