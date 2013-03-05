@@ -8,6 +8,9 @@ git-started
 
 Style guides
 ============
+In order to make our code more readable and maintainable by everyone, we do
+our best to use consistent styles on all our projects. Please read through the
+following guides, and make sure any contributed code uses the same style.
 
 [Less/CSS](styles/Less.md)
 
