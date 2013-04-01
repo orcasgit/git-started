@@ -9,13 +9,18 @@ git-started
 Style guides
 ============
 In order to make our code more readable and maintainable by everyone, we do
-our best to use consistent styles on all our projects. Please read through the
-following guides, and make sure any contributed code uses the same style.
+our best to use consistent styles on all our projects. That said, a quick quote from
+Python's style guide is in order:
+> A Foolish Consistency is the Hobgoblin of Little Minds
 
-[Less/CSS](styles/Less.md)
+If any of these guidelines cause the code to be less readable, just use your best judgement to
+make the necessary adjustments to fix the problem. Please read through the following guides,
+and make sure any contributed code uses the same style.
 
-[JavaScript](styles/JavaScript.md)
+###[Less/CSS](styles/Less.md)
 
-[HTML](styles/HTML.md)
+###[JavaScript](styles/JavaScript.md)
 
-[Python](styles/Python.md)
+###[HTML](styles/HTML.md)
+
+###[Python](styles/Python.md)
