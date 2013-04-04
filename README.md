@@ -9,13 +9,13 @@ git-started
 Style guides
 ============
 In order to make our code more readable and maintainable by everyone, we do
-our best to use consistent styles on all our projects. That said, a quick quote from
+our best to use consistent styles on all our projects. Please read through the following guides,
+and make sure any contributed code uses the same style. That said, a quick quote from
 Python's style guide is in order:
 > A Foolish Consistency is the Hobgoblin of Little Minds
 
 If any of these guidelines cause the code to be less readable, just use your best judgement to
-make the necessary adjustments to fix the problem. Please read through the following guides,
-and make sure any contributed code uses the same style.
+make the necessary adjustments to fix the problem. The style guides can be found below.
 
 ###[Less/CSS](styles/Less.md)
 
