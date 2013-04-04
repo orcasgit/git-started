@@ -1,4 +1,5 @@
-#Example LESS
+LESS Style Guide
+================
 ###Keep children under parents. Don't duplicate code that doesn't need to be there.
 
 Make sure your tabs are set to 4 spaces. You can do this in Sublime Text
