@@ -21,6 +21,8 @@ Inline comments should be preceded with two spaces, with one space following the
 necessary following `if`, `for`, `while`, or a function call and no spaces around parantheses or
 square brackets are necessary. Spaces around operators(+, -, /, *, %) and curly braces are helpful.
 
+Indentation
+-----------
 Indentation should be done with
 ["the one true brace style"](http://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS)(1TBS). An
 example:
