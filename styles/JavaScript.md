@@ -17,12 +17,15 @@ screen. Generally speaking, if the code is indented more than 4 times, it is usu
 restructure the code to reign it in.
 
 Use two blank lines between classes, and one blank line between functions and other logical chunks.
+Inline comments should be preceded with two spaces, with one space following the `//`. No space is
+necessary following `if`, `for`, `while`, or a function call and no spaces around parantheses or
+square brackets are necessary. Spaces around operators(+, -, /, *, %) and curly braces are helpful.
 
 Indentation should be done with
 ["the one true brace style"](http://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS)(1TBS). An
 example:
 ```javascript
-if (test1) {
+if(test1) {
    function1();
 } else {
    function2();
@@ -30,16 +33,16 @@ if (test1) {
 ```
 
 One of guidelines of note in `1TBS` is that the programmer should always use braces even for
-single-line conditionals. This guideline prevents mistakes like:
+single-line conditionals. This guideline prevents mistakes like the following:
 ```javascript
-if (test1)
+if(test1)
     function1(); // Only executed if test1 is true
     function2(); // Always executed, but maybe not expected
 ```
 and
 ```javascript
 // function2 always runs, but looks like part of the if statement
-if (test1) function1(); function2();
+if(test1) function1(); function2();
 else function3(); // Error
 ```
 
