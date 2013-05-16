@@ -1,6 +1,9 @@
 JavaScript Style Guide
 ======================
 
+In addition to the following guidelines, please validate all code with [jshint](http://www.jshint.com/)
+and correct any errors it uncovers.
+
 Location
 --------
 Almost all the JavaScript code should be broken out into JavaScript files, loaded in via `<script>`
