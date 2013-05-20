@@ -24,3 +24,10 @@ make the necessary adjustments to fix the problem. The style guides can be found
 ###[HTML](styles/HTML.md)
 
 ###[Python](styles/Python.md)
+
+There are also several recommendations we believe should apply universally to retain consistency
+throughout our projects, regardless of the language used:
+* There should be no extra space at the end of lines. Many editors have a setting to
+automatically strip off extra white space when saving.
+* There should be one blank line at the end of every file. Again, many editors have an option to
+make this happen automatically.
