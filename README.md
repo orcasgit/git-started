@@ -61,3 +61,14 @@ throughout our projects, regardless of the language used:
 automatically strip off extra white space when saving.
 * There should be one blank line at the end of every file. Again, many editors have an option to
 make this happen automatically.
+
+Comments
+--------
+Use code comments to serve as documentation. To go from the top to the bottom hierarchically:
+* Each project should have a `README` file at the root level to describe how to setup the project,
+how the various pieces fit together, and how to use it.
+* Each file should have a comment at the beginning to give a summary of what the code in the file
+does and how it should be used.
+* Each module/function in the file should also have comment block describing what the function
+does and how to use it.
+* Inline comments should be used to explain any complex logic, or summarize logical blocks.
